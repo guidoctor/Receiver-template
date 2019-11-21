@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "giggle": "github:dexterind/pxt-giggle#v1.4.0"
     },
     "files": [
         "README.md",
@@ -14,5 +15,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
